@@ -1,4 +1,4 @@
-# 📊 Artefato 3: Matriz SWOT (FOFA)
+# 📊 Artefato 3: Matriz SWOT
 
 Este documento analisa os fatores internos e externos para entender as forças, fraquezas, oportunidades e ameaças envolvidas no projeto.
 
