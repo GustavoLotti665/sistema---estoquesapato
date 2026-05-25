@@ -7,7 +7,7 @@ Este documento analisa os fatores internos (o que controlamos no sistema e na lo
 ### 💪 1. Forças (Fatores Internos)
 * **Conhecimento real do problema:** Trabalhar no e-commerce ajuda a saber exatamente onde a grade de sapatos e as entregas falham.
 * **Tecnologia dominada:** O uso do ecossistema C# e .NET Core acelera o desenvolvimento por ser o que usamos nas aulas da Fatec.
-* **Custo zero de desenvolvimento:** Uso exclusivo de ferramentas gratuitas (VS Code, draw.io, Figma).
+* **Custo zero de desenvolvimento:** Uso exclusivo de ferramentas gratuitas (Antigravity, draw.io, Figma).
 
 ---
 
