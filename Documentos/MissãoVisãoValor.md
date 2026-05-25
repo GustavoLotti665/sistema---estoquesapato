@@ -1,10 +1,13 @@
 # 📋 Artefato 1: Missão, Visão e Valor
 
+
 # 🎯 Missão
 Facilitar o dia a dia do e-commerce de calçados através de um sistema que conecta o controle de pedidos da loja com a realidade do estoque dos fornecedores, garantindo que o cliente receba exatamente o que comprou.
 
+
 # 🤓 Visão
 Se tornar a ferramenta de gerenciamento de estoque e grade mais prática e confiável para pequenas e médias lojas virtuais de sapatos, eliminando falhas de entrega por falta de produto.
+
 
 # 💡 Valores
 * Sincronia Operacional: Unir lojista e fornecedor em uma mesma linha de informação para evitar a venda de produtos indisponíveis.
