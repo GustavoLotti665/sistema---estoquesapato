@@ -30,7 +30,8 @@ Este documento mostra o que foi conversado com o pessoal da loja para entender o
 
 ### 👥 5. Quem vai Usar
 * **Pergunta:** Quem vai mexer no sistema no dia a dia?
-* **Resposta:** * 🛒 **Comprador:** Para atualizar o estoque que os fornecedores mandam.
+* **Resposta:**
+  * 🛒 **Comprador:** Para atualizar o estoque que os fornecedores mandam.
   * 📦 **Pessoal do Estoque:** Para ver quais pedidos estão com o tamanho garantido e já podem ser despachados.
 
 ---
