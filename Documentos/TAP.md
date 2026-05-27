@@ -5,7 +5,7 @@ Este documento formaliza o início do projeto, definindo seus objetivos principa
 ---
 
 ### 📌 1. Informações Básicas
-* **Nome do Projeto:** Sistema Integrado de Gestão de Estoque (HJM Calçado)
+* **Nome do Projeto:** Sistema Integrado de Gestão de Estoque (HJM Calçados)
 * **Gerente do Projeto:** Gustavo Lotti
 * **Data de Início:** Março de 2026
 * **Previsão de Conclusão:** Fim do 1º semestre letivo de 2026
