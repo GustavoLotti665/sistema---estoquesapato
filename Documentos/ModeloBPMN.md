@@ -30,10 +30,6 @@ Com o sistema em C#, o processo fica inteligente e previne o erro antes do envio
 
 ---
 
-### 🗺️ Elementos do Diagrama (Para desenhar no draw.io)
+### 🗺️ 3. Diagrama Visual (BPMN)
+<img width="863" height="539" alt="image" src="https://github.com/user-attachments/assets/b3b113a0-3580-4407-b8be-063cc3daadc9" />
 
-Para montar o seu gráfico no draw.io, utilize a seguinte estrutura:
-* 🏢 **Pool/Lanes (Rias):** Divida o diagrama em 3 raias: `Cliente`, `E-commerce / Sistema` e `Fornecedor`.
-* 🟢 **Evento de Início:** Pedido realizado pelo cliente.
-* 🔶 **Gateway (Decisão):** Usar o losango de decisão para checar: *"Fornecedor possui a grade disponível?"*.
-* 🔴 **Evento de Fim:** Pedido enviado com sucesso OU Pedido cancelado/estornado.
