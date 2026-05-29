@@ -19,35 +19,8 @@ Este documento mapeia visualmente os atores do sistema e as ações que eles pod
 ---
 
 ### 🗺️ 3. Diagrama Visual (UML)
+<img width="1040" height="524" alt="image" src="https://github.com/user-attachments/assets/4fb2955c-06dc-4995-9cc4-9bf3717a29c2" />
 
-```mermaid
-flowchart LR
-    %% Estilo dos Atores
-    classDef ator fill:transparent,stroke:none,color:#fff,font-size:14px,font-weight:bold;
-    
-    %% Estilo dos Casos de Uso
-    classDef casoUso fill:#34495e,stroke:#2c3e50,stroke-width:2px,color:#fff,rx:20,ry:20;
-    
-    %% Atores
-    Admin((👨‍💻 Administrador)):::ator
-    Forn((🤖 Sistema<br>Fornecedor)):::ator
-
-    %% Fronteira do Sistema
-    subgraph Sistema [Fronteira do Sistema de Gestão]
-        direction TB
-        UC1([➕ Cadastrar Produto]):::casoUso
-        UC2([📦 Gerenciar Pedidos]):::casoUso
-        UC3([✅ Liberar Envio]):::casoUso
-        UC4([🔄 Importar Estoque]):::casoUso
-        UC5([🔍 Validar Estoque do Pedido]):::casoUso
-        UC6([🚨 Gerar Alerta de Falta]):::casoUso
-    end
-
-    %% Ligações dos Atores com os Casos de Uso
-    Admin --- UC1
-    Admin --- UC2
-    Admin --- UC3
-    
     Forn --- UC4
 
     %% Relações de Include e Extend
