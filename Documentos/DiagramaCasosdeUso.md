@@ -20,9 +20,3 @@ Este documento mapeia visualmente os atores do sistema e as ações que eles pod
 
 ### 🗺️ 3. Diagrama Visual (UML)
 <img width="1040" height="524" alt="image" src="https://github.com/user-attachments/assets/4fb2955c-06dc-4995-9cc4-9bf3717a29c2" />
-
-    Forn --- UC4
-
-    %% Relações de Include e Extend
-    UC2 -. "<< include >>" .-> UC5
-    UC5 -. "<< extend >>\n(Se faltar na fábrica)" .-> UC6
