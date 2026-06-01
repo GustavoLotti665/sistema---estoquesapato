@@ -1,4 +1,4 @@
-# 👤 Artefato 9: Diagrama de Casos de Uso (UML)
+# 👤 Artefato 9: Diagrama de Casos de Uso
 
 Este documento mapeia visualmente os atores do sistema e as ações que eles podem realizar, detalhando as interações e as validações automáticas de estoque.
 
