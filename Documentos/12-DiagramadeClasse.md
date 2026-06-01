@@ -1,4 +1,4 @@
-# 🏗️ Artefato 12: Diagrama de Classe (UML)
+# 🏗️ Artefato 12: Diagrama de Classe
 
 Este diagrama representa a estrutura estática do sistema, detalhando as entidades principais, seus atributos (propriedades) e métodos (ações), servindo como base para a criação do banco de dados e do código em C# (.NET).
 
