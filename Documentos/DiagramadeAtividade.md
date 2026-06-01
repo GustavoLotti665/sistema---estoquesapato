@@ -1,4 +1,4 @@
-# 🔄 Artefato 10: Diagrama de Atividade
+# 🔄 Artefato 11: Diagrama de Atividade
 
 Este diagrama detalha o comportamento dinâmico do sistema, mostrando o fluxo de passos, decisões e ações desde a chegada de um novo pedido até a sua finalização ou bloqueio.
 
