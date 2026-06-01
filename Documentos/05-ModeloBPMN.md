@@ -4,7 +4,7 @@ Este documento descreve o fluxo de trabalho atual da loja e como o novo sistema 
 
 ---
 
-### 📉 1. Processo Atual (As-Is) - Sem o Sistema
+### 📉 1. Processo Atual - Sem o Sistema
 
 Hoje, o fluxo é manual, lento e passível de erros frequentes:
 
@@ -17,7 +17,7 @@ Hoje, o fluxo é manual, lento e passível de erros frequentes:
 
 ---
 
-### 📈 2. Processo Futuro (To-Be) - Com o Novo Sistema
+### 📈 2. Processo Futuro - Com o Novo Sistema
 
 Com o sistema em C#, o processo fica inteligente e previne o erro antes do envio:
 
